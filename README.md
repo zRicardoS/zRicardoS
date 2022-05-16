@@ -4,9 +4,7 @@
 
 Meu nome é Ricardo de Souza Silva (@zRicardoS);
 
-Sou do Ceará, no último Semestre de Engenharia de Computação (UFC)
-
-Programação: Python;
+Tenho um certo conhecimento em Python;
 
 Atualmente Estou Aprendendo sobre Desenvolvimento Web
 
